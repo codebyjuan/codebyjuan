@@ -1,17 +1,17 @@
- About Me
+# About Me
 
-👋 Hi! I'm Juan Bellevue, a beginner developer based in Nashville, TN. I'm currently diving into web development, learning HTML, CSS, JavaScript, and other web technologies.
+👋 Hi! I'm Juan Bellevue, a developer based in Nashville, TN. I'm currently diving into web development, focusing on HTML, CSS, JavaScript, and other web technologies.
 
-💻 Skills
+## 💻 Skills
 
-- **Languages**: HTML, CSS, JavaScript, C++, Python
+- **Languages**: HTML, CSS, JavaScript, C++, C#, Python
 - **Tools**: Visual Studio, Git, React, Node.js, Express, MongoDB
 
- 🌱 Learning
+## 🌱 Learning
 
-I'm constantly learning and growing my skills in development. I'm passionate about creating user-friendly websites and applications.
+I'm continuously expanding my skills in web development and am passionate about creating user-friendly websites and applications.
 
- 📫 Contact
+## 📫 Contact
 
 Feel free to reach out via:
 

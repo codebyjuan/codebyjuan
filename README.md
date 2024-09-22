@@ -4,7 +4,7 @@
 
 ## 💻 Skills
 
-- **Languages**: HTML, CSS, JavaScript, C++, C#, Python
+- **Languages**: HTML, CSS, JavaScript, Java, Python, C++
 - **Tools**: Visual Studio, Git, React, Node.js, Express, MongoDB
 
 ## 🌱 Learning

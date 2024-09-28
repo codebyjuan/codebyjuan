@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi! I'm Juan Bellevue, a developer based in Nashville, TN. I'm currently diving into web development, focusing on HTML, CSS, JavaScript, and other web technologies.
+👋 Hi! I'm Juan Bellevue, a web developer from Nashville, TN. I specialize in building modern, responsive websites using HTML, CSS, JavaScript, and a variety of web technologies.
 
 ## 💻 Skills
 

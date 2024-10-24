@@ -16,7 +16,7 @@ I'm continuously expanding my skills in web development and am passionate about 
 Feel free to reach out via:
 
 - [LinkedIn](https://www.linkedin.com/in/juanbellevue)
-- Email: [jbellevue83022@gmail.com](mailto:jbellevue83022@gmail.com)
+- [Email](jbellevue83022@gmail.com](mailto:jbellevue83022@gmail.com)
 
 ---
 

@@ -6,24 +6,30 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
 </p>
+
 
 ---
 
 ### 👋 About Me  
 
-I'm a passionate **full-stack developer** focused on creating **scalable, user-centric web applications**. I enjoy solving complex problems with clean, maintainable code and continuously expanding my knowledge in modern development technologies.  
+I’m a **full-stack developer** dedicated to building **scalable, high-performance web applications**. With a strong foundation in **modern web technologies, backend architecture, and API development**, I thrive on solving complex problems and writing **clean, maintainable code**.  
+
+I have hands-on experience in both **frontend and backend development**, and I enjoy collaborating on open-source projects and exploring new technologies to **enhance user experience and system efficiency**.
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Technology Stack  
 
 ```json
 {
   "frontend": ["React", "HTML5", "CSS3", "JavaScript (ES6+)"],
-  "backend": ["Node.js", "Express", "MongoDB"],
+  "backend": ["Node.js", "Express", "MongoDB", "PostgreSQL"],
   "languages": ["JavaScript", "Python", "Java", "C++"],
-  "tools": ["Git", "VS Code", "REST APIs", "npm"]
+  "tools": ["Git", "VS Code", "REST APIs", "Jest", "Postman", "Linux"]
 }
 ```
 
@@ -31,20 +37,24 @@ I'm a passionate **full-stack developer** focused on creating **scalable, user-c
 
 ### 🚀 What I Do  
 
-✅ Develop responsive, **user-friendly** web applications  
-✅ Build and optimize **RESTful APIs** for seamless integration  
-✅ Design scalable **database architectures**  
-✅ Collaborate on **open-source projects** and contribute to the community  
-✅ Focus on **clean code** and maintainability  
+✅ Develop **scalable, responsive web applications**  
+✅ Architect **efficient RESTful APIs** for seamless integration  
+✅ Design and optimize **relational & NoSQL databases**  
+✅ Contribute to **open-source projects** and tech communities  
+✅ Maintain a **strong focus on performance and best practices**  
 
 ---
 
-### 📚 Currently Learning  
+### 📈 Professional Development  
 
-🔹 **Advanced React Patterns & Performance Optimization**  
-🔹 **Cloud Infrastructure & Deployment (AWS, Firebase)**  
-🔹 **Modern Backend Architectures (Microservices, GraphQL)**  
-🔹 **User Experience & Accessibility Best Practices**  
+As a **continuous learner**, I actively refine my skills and stay up to date with industry trends. My focus areas include:
+
+🔹 **Advanced React Patterns & Performance Optimization** – Leveraging hooks, context API, and state management best practices.  
+🔹 **Cloud Infrastructure & Deployment** – Implementing scalable architectures with **AWS, Firebase, and containerization (Docker)**.  
+🔹 **Modern Backend Architectures** – Exploring **Microservices, GraphQL, and event-driven architecture** to improve efficiency.  
+🔹 **Software Design & Best Practices** – Applying **clean code principles, SOLID design patterns, and accessibility best practices**.  
+
+I believe in **lifelong learning** and applying **cutting-edge technologies** to create impactful solutions.  
 
 ---
 
@@ -77,4 +87,3 @@ I'm a passionate **full-stack developer** focused on creating **scalable, user-c
 <p align="center">
   <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
 </p>
-

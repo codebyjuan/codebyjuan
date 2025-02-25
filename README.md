@@ -85,5 +85,5 @@ I believe in **lifelong learning** and applying **cutting-edge technologies** to
 ---
 
 <p align="center">
-  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
+  <i>"Technology is best when it brings people together." - Matt Mullenweg</i>
 </p>
